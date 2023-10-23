@@ -57,8 +57,6 @@ Você pode adicionar seções para "Sobre Mim", "Experiência", "Educação", "L
 </section>
 ```
 
-Repita esse processo para cada seção do seu currículo.
-
 ### Passo 5: Adicionar Imagens
 
 Se você deseja adicionar uma foto ao seu currículo, você pode usar a tag `<img>`. Certifique-se de que a imagem esteja localizada no mesmo diretório que o arquivo HTML ou forneça o caminho correto para a imagem no atributo `src`. Por exemplo:
@@ -70,8 +68,6 @@ Se você deseja adicionar uma foto ao seu currículo, você pode usar a tag `<im
 ```
 
 Lembre-se de substituir `"sua-foto.jpg"` pelo nome do arquivo de sua foto.
-
-Claro, vamos continuar a personalizar seu currículo e adicionar mais seções.
 
 ### Passo 6: Adicionar Seção de Experiência
 
@@ -91,7 +87,6 @@ A seção de experiência é onde você lista suas experiências profissionais. 
     </ul>
 </section>
 ```
-
 
 ### Passo 7: Adicionar Seção de Educação
 
